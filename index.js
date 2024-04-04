@@ -3,7 +3,9 @@
 // let say1 =parseInt(prompt("eded daxil ed"));
 
 
-
+// if(say1===1){
+//     console.log("bu 3 un quvetidir");
+// }
 // while( say1 > 1) {
 //     if(say1 / 3 == 1){
 //         console.log("bu 3 un quvetidir");
